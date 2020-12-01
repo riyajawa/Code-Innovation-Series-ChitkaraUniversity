@@ -23,6 +23,24 @@ Implentation :
      height and weight the app will tell whether the person is normal,underweight or overweight.We can also
      consult the doctor by calling or chatting 
      Phone numbers of doctors are provided in the app.
+     
+     
+Technologies used :
+   1. Android - It's our platform where we are going to deploy our apps moreover Android gives us security that’s
+    there right out of the box and never stops working. It’s like a security guard that never takes a break, a 
+    nap or a holiday. It’s the operating system inside 2.5 billion active devices.
+    
+  2. Flutter - We are going to use flutter an open-source UI software development kit created by Google. 
+  It’ll help to develop application for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from 
+  a single codebase. So, we can implement our app on multiplatform if required.
+  
+  3. Firebase - Firebase is Google's mobile application development platform that helps you build, improve,
+  and grow your app. The Firebase Realtime Database is a cloud-hosted NoSQL database that lets you store and
+  sync data between your users in real-time. Cloud Firestore enables you to store, sync and query app data at global scale.
+  
+  
+  Till now we have not connected firebase to this project. It is in process .
+
 
      
      
