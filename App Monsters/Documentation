@@ -1,0 +1,28 @@
+
+Problem Statement :
+      In our day to day household life we all face problem when we feel uneasy or uncomfortable.
+      But is it neccessary that every time the user faces some issue or require advice , that are not serious , 
+      like somebody wants to get a normal fever medicine or someone wants to increase his/her stamina, he/she is
+      required to go to doctor? Well, though it is advisable to visit the doctor whenever possible, but as discussed 
+      above if due to unavailbility of specialist due to some reason, our HEALTHCARE APP can offer the alternative.
+      
+      
+Proposed solution :
+     Our proposed solution will be an app on which patient will first fill his/her details and then
+     he/she will tell about his/her problem. Also,the app will suggest the related medicines to the user.
+     Our app is the most easily accessible digital medium for patients to satisfy their healthcare needs instantly.
+    
+    
+    
+Implentation :
+     Firstly, the user will enter his/her information. Secondly, he/she will tell about his/her problem he/she is 
+     suffering from. When the user will select the problem the app will list the main medicines for that particular
+     problem. This will be implemented by fetching data from related api. Also, there is a screen from which the 
+     user can search any medicine and the app will give the detailed use for that respected medicine.
+     Also, there is a page in which there is option to calculate BMI of a person. By entering his/her gender,
+     height and weight the app will tell whether the person is normal,underweight or overweight.We can also
+     consult the doctor by calling or chatting 
+     Phone numbers of doctors are provided in the app.
+
+     
+     
